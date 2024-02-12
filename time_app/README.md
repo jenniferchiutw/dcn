@@ -1,4 +1,4 @@
-# nyu-cs2262-001-fa20
-CSCI-UA.0201-005 - Fall 2020
+# time_app
+CSCI-GA.2262-001 - Spring 2024
 
 Central repository for managing class activities and course information
